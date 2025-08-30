@@ -17,6 +17,7 @@ This GitHub space is dedicated to:
 - 🎓 Academic Resources & Hackathon Initiatives  
 
 ---
+
 ### 🛠️ Technologies & Focus Areas
 <div align="center">
 
@@ -29,6 +30,8 @@ This GitHub space is dedicated to:
 ● 📱 **Mobile App Development (Android & iOS)**  
 
 </div>
+
+---
 
 ### 📬 Contact Us
 - 🌐 [Website](https://ggu.edu.in/)  
