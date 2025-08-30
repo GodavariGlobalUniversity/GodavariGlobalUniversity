@@ -42,8 +42,6 @@ This GitHub space is dedicated to:
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/GodavariGlobalUniversity/count.svg?"  />
-</div>
+
 
 ---
