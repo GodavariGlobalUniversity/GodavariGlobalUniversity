@@ -38,7 +38,7 @@ This GitHub space is dedicated to:
 - ✉️ godavariglobaluniversitygithub@gmail.com  
 - 📍 NH-16, Chaitanya Knowledge City, Rajamahendravaram, Andhra Pradesh 533296  
 - 🔗 [LinkedIn](https://in.linkedin.com/company/ggu-edu-in)  
-- 🐦 Twitter: [@GIETInstitutio1](https://twitter.com/GIETInstitutio1)  
+- 🐦 Twitter: [@GIETInstitution](https://twitter.com/GIETInstitutio1)  
 
 ---
 
