@@ -19,7 +19,7 @@ This GitHub space is dedicated to:
 ---
 
 ### 🛠️ Technologies & Focus Areas
-<div align="center">
+<div align="start">
 
 ● ☁️ **AWS (Cloud Computing)**  
 ● 🌐 **CCNA (Networking & Infrastructure)**  
