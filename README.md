@@ -17,21 +17,18 @@ This GitHub space is dedicated to:
 - 🎓 Academic Resources & Hackathon Initiatives  
 
 ---
-
 ### 🛠️ Technologies & Focus Areas
 <div align="center">
 
-- ☁️ **AWS (Cloud Computing)**  
-- 🌐 **CCNA (Networking & Infrastructure)**  
-- ⚙️ **DevOps & CI/CD Pipelines**  
-- 🤖 **Generative AI (Gen AI)**  
-- 💻 **Java Full Stack Development**  
-- 🖥️ **Red Hat (Linux & Cloud Solutions)**  
-- 📱 **Mobile App Development (Android & iOS)**  
+● ☁️ **AWS (Cloud Computing)**  
+● 🌐 **CCNA (Networking & Infrastructure)**  
+● 🔄 **DevOps & CI/CD Pipelines**  
+● 🤖 **Generative AI (Gen AI)**  
+● 💻 **Java Full Stack Development**  
+● 🖥️ **Red Hat (Linux & Cloud Solutions)**  
+● 📱 **Mobile App Development (Android & iOS)**  
 
 </div>
-
----
 
 ### 📬 Contact Us
 - 🌐 [Website](https://ggu.edu.in/)  
