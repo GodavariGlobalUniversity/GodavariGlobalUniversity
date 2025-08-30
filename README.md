@@ -40,8 +40,4 @@ This GitHub space is dedicated to:
 - 🔗 [LinkedIn](https://in.linkedin.com/company/ggu-edu-in)  
 - 🐦 Twitter: [@GIETInstitution](https://twitter.com/GIETInstitutio1)  
 
----
 
-
-
----
